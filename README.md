@@ -1,2 +1,2 @@
 # Tuppi
-Olio_ohjelmoinnin harkka
+Olio-ohjelmoinnin_harkka
